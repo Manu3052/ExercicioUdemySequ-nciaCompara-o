@@ -10,5 +10,5 @@ if busca:
     print('Ambas as fitas de DNA são idênticas')
     print(busca.group())
 else:
-    prnt('As fitas de DNA são diferentes')
+    print('As fitas de DNA são diferentes')
 
